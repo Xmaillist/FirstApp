@@ -1,2 +1,4 @@
 # FirstApp
-First test app
+Sample App to test CI integration
+
+
