@@ -10,6 +10,7 @@ namespace CustomerManager.Model
 {
     public class Customer
     {
+        gsgsgsgsgs
         public int Id { get; set; }
         [StringLength(50)] 
         public string FirstName { get; set; }
